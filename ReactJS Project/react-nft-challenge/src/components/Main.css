@@ -86,6 +86,10 @@
     color: #00ebfe;
 }
 
+.ownerAddress {
+    color: #fff;
+}
+
 .ownerLink {
     padding: 12px;
     border-radius: 50px;

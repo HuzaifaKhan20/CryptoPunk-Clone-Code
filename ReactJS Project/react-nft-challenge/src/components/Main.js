@@ -38,7 +38,7 @@ const Main = ( {selectedPunk, punkListData} ) => {
                     </div>
                     <div className='ownerDetails'>
                         <div className='ownerNameAndHandle'>
-                            <div>{activePunk.owner.address}</div>
+                            <div className='ownerAddress'>{activePunk.owner.address}</div>
                             <div className='ownerHandle'>@XainKhan</div>
                         </div>
                         <div className='ownerLink'>
